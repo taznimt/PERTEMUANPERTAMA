@@ -16,7 +16,7 @@ int main()
     //Display 'Luasnya = ' + nLuas
     //End
 
-    {
+   
         float nAlas, nTinggi, nLuas;
         cout << "Masukan Alas = ";
         cin >> nAlas;
@@ -25,6 +25,7 @@ int main()
         nLuas = nAlas * nTinggi / 2;
         cout << "Luasnya = " << nLuas;
 
-
+        int panjang, lebar, luas;
+      
 
     }
