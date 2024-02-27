@@ -28,6 +28,8 @@ int main()
         int panjang, lebar, luas;
         cout << "Masukan Panjang = ";
         cin >> nPanjang;
+        cout << "Masukan Lebar = ";
+        cin >> nLebar;
       
 
     }
