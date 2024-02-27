@@ -26,6 +26,8 @@ int main()
         cout << "Luasnya = " << nLuas;
 
         int panjang, lebar, luas;
+        cout << "Masukan Panjang = ";
+        cin >> nPanjang;
       
 
     }
