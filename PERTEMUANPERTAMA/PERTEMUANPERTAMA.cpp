@@ -27,9 +27,11 @@ int main()
 
         int panjang, lebar, luas;
         cout << "Masukan Panjang = ";
-        cin >> nPanjang;
+        cin >> panjang;
         cout << "Masukan Lebar = ";
-        cin >> nLebar;
-      
+        cin >> lebar;
+        nLuas = panjang * lebar;
+        cout << "Panjangnya Persegi Panjang adalah = " << nLuas;
+
 
     }
